@@ -1,6 +1,6 @@
 ## continue语句
 
-continue的作用是跳出当前循环，进入下一次循环
+continue的作用是跳出当前循环，进入下一次循环，所以遇到2的时候会跳过，输出的是1 3 4 5
 
 ```JavaScript
 const arr = [1, 2, 3, 4, 5]
